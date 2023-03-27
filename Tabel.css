@@ -1,0 +1,12 @@
+table{
+    width: 80%;
+    height: calc(150-100vh);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+}
+.item{
+    margin: 50px;
+    background-color: aquamarine;
+}
